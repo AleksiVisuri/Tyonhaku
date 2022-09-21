@@ -18,6 +18,8 @@ public class PlayerControllerX : MonoBehaviour
     public AudioClip explodeSound;
     public AudioClip bounceSound;
 
+    
+
     private Vector3 _yAxis = new Vector3(0, 1, 0);
 
     // Start is called before the first frame update
@@ -47,6 +49,12 @@ public class PlayerControllerX : MonoBehaviour
         {
             playerRb.velocity = -_yAxis;
         }
+
+        if (gameOver == true)
+        {
+           // Destroy(gameObject);
+        }
+
     }
 
     private void OnCollisionEnter(Collision other)
@@ -58,9 +66,9 @@ public class PlayerControllerX : MonoBehaviour
             playerAudio.PlayOneShot(explodeSound, 1.0f);
             gameOver = true;
             Debug.Log("Game Over!");
+            StartCoroutine(KuolemaCoRoutine(1));
             Destroy(other.gameObject);
         } 
-
         // if player collides with money, fireworks
         else if (other.gameObject.CompareTag("Money"))
         {
@@ -74,6 +82,13 @@ public class PlayerControllerX : MonoBehaviour
             playerAudio.PlayOneShot(bounceSound, 1.5f);
         }
 
+    }
+    private IEnumerator KuolemaCoRoutine(int delay)
+    {
+        
+        yield return new WaitForSeconds(delay);
+
+        Destroy(gameObject);
     }
 
 }
