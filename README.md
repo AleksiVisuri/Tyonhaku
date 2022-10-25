@@ -7,6 +7,7 @@ A link to the group project:
 https://public.bc.fi/s2000974/Pullopale/
 
 The Sripts of the project can be found in the Pullopale Folder via Scripts: https://github.com/AleksiVisuri/Tyonhaku/tree/main/Scripts/Pullopale
+(I am not claiming that I did all the work by myself, the credit goes also towards Eemil and Jesse: https://github.com/EemilKemppainen , https://github.com/JesseHamutta)
 
 Also through the journey we have had individual projects taught by our teachers or some Unity-ready courses. Something to note that the assets/graphics aren't done by myself. I have done these projects for educational purposes only. Basically what we had to do is that we had to understand how the environment works and how to code it (heh) + do a little modifications through out the challenges. Biggest challenges propably were the own adaptation of the projects, and how to solve them. The time it took, was propably worth it, but looking back now, I should have had it done in a lesser timestamp. Have fun exploring these projects!
 
