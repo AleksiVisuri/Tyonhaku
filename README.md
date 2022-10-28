@@ -17,7 +17,7 @@ https://play.unity.com/u/AlluV
 
 The Scripts are in the Scripts folder for each project and prototype/challenge: https://github.com/AleksiVisuri/Tyonhaku/tree/main/Scripts
 
-I like to play games in my free time, and I have been part of a Finnish community, with passion for games such as Brawl Stars, which is a mobile game. From there we have expanded to various titles and games, what whoever might be playing at the time. I have had my part of leading a smaller portion of the community in Brawl Stars. It has been fun and I still chat regurarly with my fellow mates.
+I like music as a hobby in my spare time, which includes playing music, listening to music, and doing music. I hang out with my friends as often as possible. As an excercising hobby I do sports like running and orienteering, but my past hobbies include various team and not so team based hobbies. Most honorable mention goes to games. I spend most of my time playing them or trying to make them. Right now we are trying to make a new game in school in groups. Our group makes a multiplayer game where player is against another player where the other player has joined the host's server. We'll see if we can succesfully make this come true. To see our current progress, take a look to our repository: (link will be added)
 
 To get into contact with me, please do it via email or my personal Discord:
 Email me: aleksi.visuri@outlook.com
