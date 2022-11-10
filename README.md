@@ -7,7 +7,7 @@ Link to the game's page: https://krs23.itch.io/dark-office
 Scripts in the Scripts folder: https://github.com/AleksiVisuri/Tyonhaku/tree/main/Scripts/Dark%20Office
 
 # Pullo Pale
-## About a year ago, we did a group project about a bottle that came to life. We have done the graphics from scratch (Note! that the 2 figures that my friends added as a joke are not done by ourselves (the ones that are as a background and the one in main menu)) and had our struggles with the code and Unity as well. There is a bug(s) still that we haven't had time to fix, see if you can find them! (P.S to enable fullscreen, you have to navigate/scroll to the bottom right corner!)
+About a year ago, we did a group project about a bottle that came to life. We have done the graphics from scratch (Note! that the 2 figures that my friends added as a joke are not done by ourselves (the ones that are as a background and the one in main menu)) and had our struggles with the code and Unity as well. There is a bug(s) still that we haven't had time to fix, see if you can find them! (P.S to enable fullscreen, you have to navigate/scroll to the bottom right corner!)
 
 A link to the group project:
 
