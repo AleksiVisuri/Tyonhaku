@@ -1,4 +1,5 @@
 # Hi, my name is Aleksi Visuri, and I use this repository as a tool to find a workplace in the game development industry.
+## Below you'll find projects that I've been part of and more info about me.
 
 # Dark Office
 ## Last week, our group made a horror game in a game jam. 
@@ -26,7 +27,8 @@ https://play.unity.com/u/AlluV
 
 The Scripts are in the Scripts folder for each project and prototype/challenge: https://github.com/AleksiVisuri/Tyonhaku/tree/main/Scripts
 
-I like music as a hobby in my spare time, which includes playing music, listening to music, and doing music. I hang out with my friends as often as possible. As an excercising hobby I do sports like running and orienteering, but my past hobbies include various team and not so team based hobbies. Most honorable mention goes to games. I spend most of my time playing them or trying to make them. Right now we are trying to make a new game in school in groups. Our group makes a multiplayer game where player is against another player where the other player has joined the host's server. We'll see if we can succesfully make this come true. To see our current progress, take a look to our repository: (link will be added)
+**Personal Stuff**
+I like music as a hobby in my spare time, which includes playing music, listening to music, and doing music. I hang out with my friends as often as possible. As an excercising hobby I do sports like running and orienteering, but my past hobbies include various team and not so team based hobbies. Most honorable mention goes to games. I spend most of my time playing them or trying to make them. Right now we are trying to make a new game in school in groups. Right now we are going to work on with the Dark Office, in our spare time and I'll work with it for the final school project with another classmate as well. I think my personality includes being enthusiastic with a little spice of leadership. In reality I am humble and fair person who understands humour. If you wish to get further information about me, feel free to be in contact.
 
 **To get into contact with me, please do it via email or my personal Discord:**
 
