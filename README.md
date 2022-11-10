@@ -29,4 +29,5 @@ I like music as a hobby in my spare time, which includes playing music, listenin
 **To get into contact with me, please do it via email or my personal Discord:**
 
 Email me: aleksi.visuri@outlook.com
+
 Discord: kerrosvoikkari#8130
