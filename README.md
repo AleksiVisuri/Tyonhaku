@@ -1,4 +1,4 @@
-Hi, my name is Aleksi Visuri, and I use this repository as a tool to find a workplace in the game development industry.
+# Hi, my name is Aleksi Visuri, and I use this repository as a tool to find a workplace in the game development industry.
 
 # Dark Office
 ## Last week, our group made a horror game in a game jam. 
